@@ -25,7 +25,9 @@ Predict the k means using kmean.predict() method and display the result.
 ## Program:
 '''
 Program to implement K-Means Clustering Algorithm.
+
 Developed by: B.Paarkavy
+
 RegisterNumber:212221230072
 '''
 
@@ -61,5 +63,5 @@ print('The cluster group for Applicant Income 1000 and Loanamount 100 :' ,predic
 ## Output:
 ![output](cluster.png)
 
-## Result
+## Result:
 Thus the K-means clustering algorithm is implemented and predicted the cluster class using python program.
