@@ -23,13 +23,13 @@ Predict the k means using kmean.predict() method and display the result.
 
 
 ## Program:
-'''
 Program to implement K-Means Clustering Algorithm.
 
 Developed by: B.Paarkavy
 
 RegisterNumber:212221230072
-'''
+
+
 
 ```
 import pandas as pd
